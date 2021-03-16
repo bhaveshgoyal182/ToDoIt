@@ -24,7 +24,7 @@ addBtn.addEventListener('click',()=>{
 delBtn.addEventListener('click',()=>{
     var input = inputElement.value;
     if(elementCount == 0){
-        alert("List is Empty.")
+        alert("Your ToDo List is Empty.")
     } else if(input != '')  {
         var removeElement = document.getElementById('l' + input);
         removeElement.remove();
