@@ -1,4 +1,5 @@
 # ToDoIt
+A ToDo list maker for organising your daily tasks.
 Just a beginner's project made as a part of the pathway in JavaScript learning.
 
 ## Live Demo
